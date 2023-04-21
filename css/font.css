@@ -1,0 +1,73 @@
+@charset "utf-8";
+@charset 'utf-8';
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 100;
+    src: url(/fonts/NotoSansKr/NotoSansKR-Thin.otf) ;
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 300;
+    src: url(/fonts/NotoSansKr/NotoSansKR-Light.otf);
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 400;
+    src: url(/fonts/NotoSansKr/NotoSansKR-Regular.otf);
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 500;
+    src: url(/fonts/NotoSansKr/NotoSansKR-Medium.otf);
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 700;
+    src: url(/fonts/NotoSansKr/NotoSansKR-Bold.otf);
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 900;
+    src: url(/fonts/NotoSansKr/NotoSansKR-Black.otf);
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 900;
+    src: url(/fonts/NotoSansKr/NotoSansKR-Black.otf);
+}
+
+@font-face {
+    font-family: 'Cormorant Garamond';
+    src: url(/fonts/CormorantGaramond-Bold.ttf);
+    font-weight: 600;
+    font-style: Bold;
+}
+
+@font-face {
+    font-family: 'Cormorant Garamond';
+    src: url(/fonts/CormorantGaramond-Bold.ttf);
+    font-weight: 300;
+    font-style: Light;
+}
+
+@font-face {
+    font-family: 'Cormorant Garamond';
+    src: url(/fonts/CormorantGaramond-Bold.ttf);
+    font-weight: 500;
+    font-style: Medium;
+}
